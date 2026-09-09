@@ -1,4 +1,4 @@
-# SYMBOLE GLOBAL / SIMBA PLATFORM
+# SYMBOLE_&_SIMBA_PLATFORM
 
 **A unified, enterprise-scale platform with clear domain separation, security controls, and progressive scaffolding.**
 
