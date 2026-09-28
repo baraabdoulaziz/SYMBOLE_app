@@ -1,0 +1,3 @@
+./scripts/setup_github.sh TON-USERNAME simba-platform
+git tag v1.0.0 && git push origin v1.0.0
+# → 4 APK signés + GitHub Release automatiquement
